@@ -21,18 +21,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-Embracing CSA: A Practical Handbook for Former CSV Practitioners
+Criando um e-book assistido por uma IA Generativa (Copilot): "Embracing CSA: A Practical Handbook for Former CSV Practitioners"
 
 ## 📒 Descrição
-
+O presente projeto visa utilizar a ferramenta de IA generativa, Copilot, para criar um e-book de temática relevante para a indústria de ciências da vida.
+A escolha por apenas uma IA generativa visa aprofundar conhecimento em uma ferramenta, explorando possibilidades e entendendo conceitos-chave de seu funcionamento, para servir de base para futuros aprendizados em outras ferramentas.
+O Copilot trata-se de uma ótima escolha, pois ele é gratuito e facilmente acessível de uma estação de trabalho (PC) ou via aplicativo de celular.
 
 ## 🤖 Tecnologias Utilizadas
 Copilot.
 
 ## 🧐 Processo de Criação
-**1º** - Solicitar ao Copilot uma amostra de 10 exemplos de título para a transição de "Computer System validation (CSV)" para "Computer Software Assurance (CSA)".
+1º - Solicitar ao Copilot uma amostra de 10 exemplos de título para a transição de "Computer System validation (CSV)" para "Computer Software Assurance (CSA)".
 Prompt: "Copilot, considerando que você que irá escrever um e-book sobre a transição de "Computer System validation (CSV)" para "Computer Software Assurance (CSA)" para uma audiência que fala o idioma inglês, por favor, forneça uma amostra de dez títulos que eu poderia dar ao projeto / e-book."
-**2º** - Avaliar as opções fornecidas e, caso alguma delas seja apropriada, adicionar ao projeto / lab da DIO.me
+2º - Avaliar as opções fornecidas e, caso alguma delas seja apropriada, adicionar ao projeto / lab da DIO.me adicionando o prefixo "Criando um e-book assistido por uma IA Generativa (Copilot):"
 O título selecionado foi: "Embracing CSA: A Practical Handbook for Former CSV Practitioners".
 
 ## 🚀 Resultados
