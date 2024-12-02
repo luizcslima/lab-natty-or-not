@@ -21,15 +21,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Embracing CSA: A Practical Handbook for Former CSV Practitioners
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+**1º - Solicitar ao Copilot uma amostra de 10 exemplos de título para a transição de "Computer System validation (CSV)" para "Computer Software Assurance (CSA)".**
+Prompt: "Copilot, considerando que você que irá escrever um e-book sobre a transição de "Computer System validation (CSV)" para "Computer Software Assurance (CSA)" para uma audiência que fala o idioma inglês, por favor, forneça uma amostra de dez títulos que eu poderia dar ao projeto / e-book."
+**2º - Avaliar as opções fornecidas e, caso alguma delas seja apropriada, adicionar ao projeto / lab da DIO.me**
+O título selecionado foi: "Embracing CSA: A Practical Handbook for Former CSV Practitioners".
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
