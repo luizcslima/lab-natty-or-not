@@ -145,7 +145,7 @@ Referências
 •	Citação de fontes e materiais utilizados: A list of all sources and references cited throughout the e-book, ensuring proper attribution and credibility.
 
 
-***5º - Solicite ao Copilot que traduza o texto inteiro para inglês e que preencha a seção de referências com as fontes que foram utilizadas para a geração do texto.
+***5º - Solicitar ao Copilot que traduza o texto inteiro para inglês e que preencha a seção de referências com as fontes que foram utilizadas para a geração do texto.
 Prompt: “Copilot, por favor, traduza todo o texto anterior para inglês e forneça na seção de referências todas as referências que você utilizou para a geração do texto”.
 Retorno do Prompt:
 Cover
