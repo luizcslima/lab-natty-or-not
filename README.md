@@ -284,7 +284,18 @@ References
 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Alguns pontos a serem considerados quando se gerando algo com IA:
+
+1º - A IA, até o presente momento, é uma ferramenta, então os resultados dependem fortemente da sua intenção para com a ferramenta, o seu conhecimento da ferramenta (como, quando e onde ela pode ser utilizada) e do contexto / tema onde se pretende aplicar a IA.
+
+2º - Conhecimento no tema é essencial para evitar o GIGO (Garbage in, Garbage out = “Lixo para dentro , lixo para fora”). É muito importante ter o conhecimento no tema e de como elaborar um bom prompt para que você forneça as entradas adequadas para IA, bem como modele a forma que ela deve tratar os dados de entrada. Isso permite uma saída / resultados melhores, mas que ainda carecem de revisão.
+
+3º - A IA ainda tem suas limitações, podendo alucinar, fornecer textos incompletos e/ou até mesmo equivocados. Portanto, a revisão dos dados gerados é essencial.
+
+4º - Estudo, estudo, estudo + prática, prática, prática... Sobre o contexto/tema que você atua, sobre as tecnologias, sobre engenharia de prompt são essenciais para uma melhoria contínua dos resultados, bem como a velocidade de gerá-los.
+
+De forma geral, foi agradável realizar esse desafio. Para sair da zona de conforto.
+
 
 
 
