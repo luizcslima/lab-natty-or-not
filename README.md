@@ -294,7 +294,9 @@ Alguns pontos a serem considerados quando se gerando algo com IA:
 
 4º - Estudo, estudo, estudo + prática, prática, prática... Sobre o contexto/tema que você atua, sobre as tecnologias, sobre engenharia de prompt são essenciais para uma melhoria contínua dos resultados, bem como a velocidade de gerá-los.
 
-De forma geral, foi agradável realizar esse desafio. Para sair da zona de conforto.
+5º - O Copilot se mostrou uma ferramenta interessante para estruturar o layout de um e-book e, muito provavelmente, ajudaria em outras peças / documentos. Caso estivesse fazendo uma peça formal, ele pouparia bastante tempo e, associado a ferramentas de imagem como o Leonardo.Ai, ajudaria a criar um e-book bem interessante.
+
+De forma geral, foi agradável realizar esse desafio. Tratou-se de uma forma para sair da zona de conforto.
 
 
 
